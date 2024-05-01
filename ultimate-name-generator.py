@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import random
 
+import random
 
 while True:
 # Load the lists from files
@@ -64,8 +64,8 @@ while True:
 
     print("Generated name:", generate_name(chosen_format))
 
-    continueProg = input("Generate Another? (y/n) ")
-    if continueProg.lower() != "y":
+    continue_prog = input("Generate Another? (y/n) ")
+    if continue_prog.lower() != "y":
         break
 
 
