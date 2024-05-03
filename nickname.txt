@@ -1,225 +1,382 @@
-Spooky
+Aardvark
 Ace
-Nostrils
-Lips
-Squeaky
-Big Snoot
-Speedy
-Big Butcher
-Racer
-Clobberer
-Rebel
-Box
-Guns
-Muscles
-Muscle
-Rug-Rat
-Pusher
-Night Train
-Eyes
-Little Bird
-Mad Dog
-Legs
-Muffin
-Kill Switch
-Killer
-Hyper
-Wrecking Ball
-Shoe String
-Books
-Brains
-Ninja
-Drama
-Planet
-Sun
-Star
-Knee Caps
-Whitey
-Dark Light
-Space Boy
-Deuce
-Joker
-Goose
-Turtle
-Rabbit
-Sasquatch
-Yeti
-Smurf
-Pluto
-Jester
-Rogue
-Pusher
-Junkyard Dog
-Bitmap
-Blister
-Roadblock
-Keystone
-Bowler
-Sandbox
-Buckshot
-Shadow
-Knuckles
-Shooter
-Cobra
-Snack Eyes
-Chuckles
-Hound
-Thunder
-Sofa King
-Cool Whip
-Marbles
-Spider
-Cosmo
-Marshmallow
-Mental
-Mercury
-Crazy Eyes
-Crazy Eye
-Dark Horse
-Dude
-Toe
-Dropkick
-Nacho
-Twitch
-Vortex
-Flint
-Freak
-Wheels
-Glyph
-Grave Digger
-Deadeye
-Danggggg
-Gerbil 
-Hamster
-Badger
-Frog
-Toad
-Code
-Dark Matter
-Redneck
-Roadspike
-Dancer
-Sloth
-Coppertop
-Blades
-Lightning
-Greased Lightning
-Dice
-Switchblade
-Samurai
-Bruh
-Street
-Bones
-Bison
-Lion
-Python
-Rattler
-Dog
-Mammoth
-T-Rex
-Moon
-Kong
-Stallion
-Rifle
-Shotgun
-Six Shooter
-Shooter
-Comatose
-Fungus
-Enforcer
-Bullet
-Boxed In
-Potato Chip
-Sub Woof
-WD40
-Movie Time
-FUBAR
-Spark
-Sparks
-Sleepwalker
-Coffee
-Tomcat
-Cream
-Trash
-Rook
-Barbwire
-Bleach
-Dandelion
-Delicious
-Vixen
-Assassin
-Hulk
-Papa Bear
+Alligator
 Alpha
+Angler
+Ant
+Antelope
+Arctic Wolf
+Armadillo
+Assassin
+Axolotl
+Badger
+Balled Eagle
 Bambi
-Champ
-Decaf
-Lion
-Commando
+Banana Spider
+Bandicoot
+Barbwire
+Barracuda
+Bat
 Bear
+Beaver
+Beetle
+Big Butcher
+Big Snoot
+Bird
+Bison
+Bitmap
+Blackbird
+Black Mamba
+Black Widow
+Blades
+Bleach
 Blister
 Blondie
-Boss
-Brainiac
-Bro
-Buckshot
-Hollowpoint
-Chuckles
-Confessor
-Cosmo
-Universe
-Creamy
-Muffin
-Cupcake
-Pie
+Bobcat
+Bones
 Boo
-Necktie
+Books
+Boss
+Bowler
+Box
+Boxed In
+Brainiac
+Brains
+Bro
+Brown Recluse
+Bruh
+Buckshot
+Buffalo
+Bug
+Bull
+Bullet
+Bumble Bee
+Butterfly
+Buzzard
+Caiman
+Camel
+Cardinal
+Caribou
+Caterpillar
+Catfish
+Centipede
+Champ
+Cheetah
+Chicken
+Chinchilla
+Chipmunk
+Chuckles
+Clobberer
+Cobra
+Code
+Coffee
+Comatose
+Commando
+Confessor
+Cool Whip
+Copperhead
+Coppertop
+Cosmo
+Cottonmouth
+Cougar
+Cow
+Coyote
+Crab
+Crazy Eye
+Crazy Eyes
+Cream
+Creamy
+Cricket
+Croc
+Crocodile
+Crow
+Cuckoo
+Cupcake
 Daddy
-Mommy
+Dancer
+Dandelion
+Danggggg
+Dark Horse
+Dark Light
+Dark Matter
 Dash
+Deadeye
+Decaf
+Deer
+Delicious
+Deuce
 Diamond
-Granite
-Quartz
+Dice
+Dingo
+Doctor
+Dog
+Dolphin
+Dove
+Dragon
+Dragonfly
+Drama
 Dreamer
 Dreamweaver
+Dropkick
+Duck
 Duckie
-Elf
+Dude
+Dung Beetle
+Eagle
+Earthworm
+Eel
 Egghead
-Player
+Elephant
+Elf
+Elk
+Emu
+Enforcer
 Eye Candy
+Eyes
+Ferret
+Fighting Fish
+Finch
+Fire
 Firecracker
 Firefly
-Beetle
-Ant
-Bug
-Worm
 Flake
-Caterpillar
-Tarantula
-Spider
-Black Widow
-Recluse
-Butterfly
 Flame
-Fire
-Foxy
+Flamingo
+Flatworm
+Flint
+Flycatcher
 Fox
+Foxy
 Freak
 Freckles
+Frog
 Frostbite
-Hawk
-Eagle
-Bird
-Dove
-Seagull
-Swordfish
-Guppy
-Goldfish
-Catfish
-Whale
-Dolphin
-Dragon
-Serpent
-Titan
+FUBAR
+Fungus
+Funnelweb
+Gazelle
+Gerbil 
+Giraffe
 Gladiator
+Glyph
+Goat
+Goldfish
+Goose
+Granite
+Grasshopper
+Grave Digger
+Greased Lightning
+Groundhog
+Guns
+Guppy
+Hammerhead
+Hamster
+Hawk
+Hedgehog
+Hippo
+Hippopotamus
+Hollowpoint
+Honey Bee
+Hornet
+Hound
+Hulk
+Hyena
+Hyper
+Iguana
+Jackal
+Jellyfish
+Jester
+Joker
+Junkyard Dog
+Kangaroo
+Keystone
+Killer
+Killer Bee
+Kill Switch
+Kitty Cat
+Knee Caps
+Knuckles
+Koala
+Komodo Dragon
+Kong
+Krill
+Ladybug
+Legs
+Lightning
+Lion
+Lips
+Little Bird
+Lizard
+Llama
+Lobster
+Lynx
+Macaw
+Mad Dog
+Mammoth
+Manatee
+Marbles
+Marshmallow
+Meerkat
+Mental
+Mercury
+Millipede
+Mockingbird
+Mole
+Mommy
+Mongoose
+Moon
+Moose
+Moth
+Mouse
+Movie Time
+Mud Dobber
+Muffin
+Muscle
+Muscles
+Mushroom
+Nacho
+Necktie
+Newt
+Night Train
+Ninja
+Nostrils
+Nurse
+Ocelot
+Octopus
 One
+Opossum
+Ostrich
+Otter
+Owl
+Panda
+Papa Bear
+Pelican
+Penguin
+Pheasant
+Pie
+Pig
+Planet
+Platypus
+Player
+Pluto
+Polar Bear
+Porcupine
+Possum
+Potato Chip
+Prairie Dog
+Praying Mantis
+Pufferfish
+Puffin
+Puma
+Pusher
+Python
+Quartz
+Rabbit
+Raccoon
+Racer
+Rattler
+Rattlesnake
+Raven
+Rebel
+Recluse
+Redneck
+Reef Shark
+Rhino
+Rhinoceros
+Rifle
+Roadblock
+Roadspike
+Rogue
+Rook
+Rooster
+Ronin
+Rug-Rat
+Samurai
+Sandbox
+Sasquatch
+Seagull
+Seahorse
+Seal
+Sea Lion
+Sea Snake
+Sea Urchin
+Serpent
+Shadow
+Shark
+Sheep
+Shoe String
+Shooter
+Shotgun
+Shrew
+Six Shooter
+Skunk
+Sleepwalker
+Sloth
+Slug
+Smurf
+Snack Eyes
+Snail
+Snake
+Sofa King
+Space Boy
+Spark
+Sparks
+Speedy
+Sperm Whale
+Spider
+Spooky
+Squeaky
+Squid
+Squirrel
+Stag Beetle
+Stallion
+Star
+Stingray
+Stink Bug
+Street
+Sub Woof
+Sun
+Swan
+Swine
+Switchblade
+Swordfish
+Tarantula
+Termite
+Thunder
+Tiger
+Titan
+Toad
+Toe
+Tomcat
+Tortoise
+Toucan
+Trapdoor Spider
+Trash
+T-Rex
+Turkey
+Turtle
+Twitch
+Universe
+Urchin
+Vampire Bat
+Vixen
+Vole
+Vortex
+Vulture
+Wallaby
+Walrus
+Warthog
+Wasp
+WD40
+Weasel
+Weevil
+Whale
+Wheels
+Whitey
+Wolf
+Wombat
+Worm
+Wrecking Ball
+Yak
+Yeti
+Zebra
