@@ -68,7 +68,3 @@ while True:
     if continue_prog.lower() != "y":
         break
 
-
-
-
-
