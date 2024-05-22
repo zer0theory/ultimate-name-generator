@@ -67,4 +67,3 @@ while True:
     continue_prog = input("Generate Another? (y/n) ")
     if continue_prog.lower() != "y":
         break
-
