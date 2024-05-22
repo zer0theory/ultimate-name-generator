@@ -10,9 +10,11 @@ Ultimate Name Generator pulls random names from long lists stored in txt files t
 ## Use
 
 ```sh
-chmod +x ultimate-name-generator.py
+chmod +x ultimate-name-generator
 ```
 
 ```sh
-./ultimate-name-generator.py
+./ultimate-name-generator
 ```
+
+Alternately just add the file to your path.
