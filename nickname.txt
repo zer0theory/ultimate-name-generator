@@ -1,20 +1,3 @@
-Yummy
-Wuggle
-Woogie
-Whoopie
-Troll
-Ogre
-Beast
-Hound
-Bulldog
-Trouble
-Thin Mint
-Tater Tot
-Tart
-Sweet Pee
-Sushi
-Sunshine
-Bucket
 Aardvark
 Ace
 Alligator
@@ -35,6 +18,7 @@ Barbwire
 Barracuda
 Bat
 Bear
+Beast
 Beaver
 Beetle
 Big Butcher
@@ -62,10 +46,12 @@ Brains
 Bro
 Brown Recluse
 Bruh
+Bucket
 Buckshot
 Buffalo
 Bug
 Bull
+Bulldog
 Bullet
 Bumble Bee
 Butterfly
@@ -196,6 +182,7 @@ Hollowpoint
 Honey Bee
 Hornet
 Hound
+Hound
 Hulk
 Hyena
 Hyper
@@ -260,6 +247,7 @@ Nostrils
 Nurse
 Ocelot
 Octopus
+Ogre
 One
 Opossum
 Ostrich
@@ -304,9 +292,9 @@ Rifle
 Roadblock
 Roadspike
 Rogue
+Ronin
 Rook
 Rooster
-Ronin
 Rug-Rat
 Samurai
 Sandbox
@@ -353,12 +341,18 @@ Stink Bug
 Street
 Sub Woof
 Sun
+Sunshine
+Sushi
 Swan
+Sweet Pee
 Swine
 Switchblade
 Swordfish
 Tarantula
+Tart
+Tater Tot
 Termite
+Thin Mint
 Thunder
 Tiger
 Titan
@@ -370,6 +364,8 @@ Toucan
 Trapdoor Spider
 Trash
 T-Rex
+Troll
+Trouble
 Turkey
 Turtle
 Twitch
@@ -390,10 +386,14 @@ Weevil
 Whale
 Wheels
 Whitey
+Whoopie
 Wolf
 Wombat
+Woogie
 Worm
 Wrecking Ball
+Wuggle
 Yak
 Yeti
+Yummy
 Zebra
